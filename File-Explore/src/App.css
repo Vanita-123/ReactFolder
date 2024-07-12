@@ -1,0 +1,17 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  background-color: black;
+  color: white;
+}
+.Icon {
+  margin: 10px;
+  font-size: 15px;
+}
+.active {
+  margin: 10px;
+  cursor: pointer;
+}

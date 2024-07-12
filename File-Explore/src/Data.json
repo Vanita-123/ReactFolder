@@ -1,0 +1,112 @@
+{
+  "title": "File-Explore",
+  "type": "folder",
+  "children": [
+    {
+      "title": "node_modules",
+      "type": "folder",
+      "children": []
+    },
+    {
+      "title": "public",
+      "type": "folder",
+      "children": [
+        {
+          "title": "vite.svg",
+          "type": "file"
+        }
+      ]
+    },
+
+    {
+      "title": "src",
+      "type": "folder",
+      "children": [
+        {
+          "title": "assets",
+          "type": "folder",
+          "children": [
+            {
+              "title": "react.svg",
+              "type": "file"
+            }
+          ]
+        },
+        {
+          "title": "Components",
+          "type": "folder",
+          "children": [
+            {
+              "title": "Home.jsx",
+              "type": "file"
+            },
+            {
+              "title": "About.jsx",
+              "type": "file"
+            },
+            {
+              "title": "Page.jsx",
+              "type": "file"
+            },
+            {
+              "title": "Contact.jsx",
+              "type": "file"
+            }
+          ]
+        },
+
+        {
+          "title": "App.css",
+          "type": "file"
+        },
+        {
+          "title": "App.jsx",
+          "type": "file"
+        },
+        {
+          "title": "index.css",
+          "type": "file"
+        },
+        {
+          "title": "main.jsx",
+          "type": "file"
+        }
+      ]
+    },
+
+    {
+      "title": ".eslintrc.cjs",
+      "type": "file"
+    },
+
+    {
+      "title": ".gitignore",
+      "type": "file"
+    },
+    {
+      "title": ".index.html",
+      "type": "file"
+    },
+    {
+      "title": "package-lock.json",
+      "type": "file"
+    },
+
+    {
+      "title": "package-lock.json",
+      "type": "file"
+    },
+    {
+      "title": "package.json",
+      "type": "file"
+    },
+    {
+      "title": "  README.md",
+      "type": "file"
+    },
+    {
+      "title": "vite.config.js",
+      "type": "file"
+    }
+  ]
+}
